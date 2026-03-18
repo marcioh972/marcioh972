@@ -8,18 +8,8 @@
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/marcioh972">
-    <img src="https://img.shields.io/badge/GitHub-Marcioh972-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/marcio.fullstak">
-    <img src="https://img.shields.io/badge/Instagram-@marcio.fullstak-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@marcio.fullstak">
-    <img src="https://img.shields.io/badge/TikTok-@marcio.fullstak-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@marcio.fullstak">
-    <img src="https://img.shields.io/badge/YouTube-%20marcio%20fullstak-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+ <a> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/) </a>
+  
 </p>
 
 ---
