@@ -22,19 +22,6 @@ I'm a Software Engineering student passionate about building scalable solutions 
 
 ---
 
-## 🗂️ Projects by Language
-
-> A quick overview of how my work is distributed across technologies.
-
-| Language | Activity | Main Use |
-|---|:---:|---|
-| ☕ Java | ![](https://img.shields.io/badge/-●●●●●-ED8B00?style=flat-square) | Backend APIs, Spring Boot, REST services |
-| 🟨 JavaScript | ![](https://img.shields.io/badge/-●●●●○-F7DF1E?style=flat-square&logoColor=black) | Frontend, Node.js, DOM manipulation |
-| 🐍 Python | ![](https://img.shields.io/badge/-●●●○○-3776AB?style=flat-square) | Scripts, automation, data processing |
-| 🔷 TypeScript | ![](https://img.shields.io/badge/-●●●○○-3178C6?style=flat-square) | Typed frontend apps, React projects |
-
----
-
 ## 🛠️ Tech Stack
 
 **Backend**
