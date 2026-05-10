@@ -58,6 +58,8 @@ I'm a Software Engineering student passionate about building scalable solutions 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcioh972&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioh972&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcioh972&background=000&border=30A3DC&stroke=30A3DC&ring=30A3DC&fire=30A3DC&currStreakNum=FFF&sideNums=FFF&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=AAA)](https://git.io/streak-stats)
+
 </div>
 
 ---
