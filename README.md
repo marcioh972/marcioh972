@@ -19,9 +19,11 @@ Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arqu
 
 ## 🛠️ Tecnologias e Ferramentas
 
+<div align="center">
 **Back-end**
+</div>
 
-<div>
+<div align="center">
   <img alt="Java" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
   <img alt="Spring Boot" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring%20Boot.svg">
   <img alt="NestJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
@@ -31,9 +33,11 @@ Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arqu
   <img alt="NodeJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
 </div>
 
+<div align="center">
 **Front-end**
+</div>
 
-<div>
+<div align="center">
   <img alt="React" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
   <img alt="Typescript" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
   <img alt="Javascript" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
@@ -43,18 +47,22 @@ Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arqu
   <img alt="TailwindCSS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
 </div>
 
+<div align="center">
 **Banco de Dados**
+</div>
 
-<div>
+<div align="center">
   <img alt="PostgreSQL" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PostgreSQL.svg">
   <img alt="MySQL" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
   <img alt="SQLite" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQLite.svg">
   <img alt="Redis" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Redis.svg">
 </div>
 
+<div align="center">
 **Ferramentas e DevOps**
+</div>
 
-<div>
+<div align="center">
   <img alt="GIT" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
   <img alt="Github" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
   <img alt="Docker" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
@@ -70,8 +78,12 @@ Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arqu
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=marcioh972&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioh972&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcioh972&background=000&border=30A3DC&stroke=30A3DC&ring=30A3DC&fire=30A3DC&currStreakNum=FFF&sideNums=FFF&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=AAA)](https://git.io/streak-stats)
+
 </div>
 
 <br>
