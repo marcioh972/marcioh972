@@ -20,7 +20,7 @@ Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arqu
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-**Back-end**
+Back-end
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@ Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arqu
 </div>
 
 <div align="center">
-**Front-end**
+Front-end
 </div>
 
 <div align="center">
@@ -48,7 +48,7 @@ Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arqu
 </div>
 
 <div align="center">
-**Banco de Dados**
+Banco de Dados
 </div>
 
 <div align="center">
@@ -59,7 +59,7 @@ Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arqu
 </div>
 
 <div align="center">
-**Ferramentas e DevOps**
+Ferramentas e DevOps
 </div>
 
 <div align="center">
@@ -90,11 +90,9 @@ Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arqu
 
 ## 📫 Como me encontrar
 
-<div>
-  <a href="https://linkedin.com/in/márcio-henrique-dev/">
-    <img alt="Linkedin" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg">
-  </a>
-  <a href="mailto:marciohenriquedev@gmail.com">
-    <img alt="Gmail" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg">
-  </a>
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/márcio-henrique-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciomind19@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
+
 </div>
