@@ -1,82 +1,88 @@
 <div align="center">
 
-# Márcio Henrique
-### Software Engineering Student · Brazil 🇧🇷
+# Olá, eu sou Márcio Henrique
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/márcio-henrique-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciomind19@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)
+### Full Stack Developer | Engenharia de Software
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
+Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arquitetura de sistemas multi-tenant, e estou sempre buscando aprender algo novo enquanto construo software com aplicabilidade prática no mercado.
 
-I'm a Software Engineering student passionate about building scalable solutions and clean architecture. Currently focused on backend development with Java and Spring Boot, exploring cloud infrastructure, and always looking for new challenges.
+- 🎓 Estudante de **Engenharia de Software** na Uninter
+- 🛠️ Stack principal: **Java** e **React** 
+- 🧩 Apaixonado por **programação competitiva** e resolução de problemas algorítmicos 
 
-- 🎯 Focus: **Backend Development & Cloud Architecture**
-- 🌱 Currently learning: **Microservices, Docker & AWS**
-- 💡 Open to: **Collaborations, internships and cool ideas**
-- 📍 Based in: **Brazil**
+<br>
 
----
+## 🛠️ Tecnologias e Ferramentas
 
-## 🛠️ Tech Stack
+**Back-end**
 
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=marcioh972&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioh972&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcioh972&background=000&border=30A3DC&stroke=30A3DC&ring=30A3DC&fire=30A3DC&currStreakNum=FFF&sideNums=FFF&currStreakLabel=30A3DC&sideLabels=30A3DC&dates=AAA)](https://git.io/streak-stats)
-
+<div>
+  <img alt="Java" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+  <img alt="Spring Boot" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring%20Boot.svg">
+  <img alt="NestJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
+  <img alt="Python" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+  <img alt="FastAPI" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/FastAPI.svg">
+  <img alt="Flask" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Flask.svg">
+  <img alt="NodeJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
 </div>
 
----
+**Front-end**
 
-## 💬 Philosophy
+<div>
+  <img alt="React" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+  <img alt="Typescript" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+  <img alt="Javascript" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+  <img alt="NextJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
+  <img alt="HTML" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
+  <img alt="CSS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
+  <img alt="TailwindCSS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
+</div>
 
-> *"Code is not just about solving problems.*
-> *It's about building solutions that scale, last, and generate real value."*
+**Banco de Dados**
 
----
+<div>
+  <img alt="PostgreSQL" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PostgreSQL.svg">
+  <img alt="MySQL" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
+  <img alt="SQLite" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQLite.svg">
+  <img alt="Redis" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Redis.svg">
+</div>
+
+**Ferramentas e DevOps**
+
+<div>
+  <img alt="GIT" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
+  <img alt="Github" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
+  <img alt="Docker" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+  <img alt="Postman" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg">
+  <img alt="VSCode" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
+  <img alt="Vercel" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vercel.svg">
+  <img alt="Linux" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg">
+</div>
+
+<br>
+
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-⭐ If you find my work useful, consider starring a repository
-<br/>
-🤝 Always open to collaborations, partnerships, and cool ideas
+<br>
 
-<br/><br/>
+## 📫 Como me encontrar
 
-![Profile Views](https://komarev.com/ghpvc/?username=marcioh972&color=0077B5&style=flat-square&label=Profile+Views)
-
+<div>
+  <a href="https://linkedin.com/in/márcio-henrique-dev/">
+    <img alt="Linkedin" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg">
+  </a>
+  <a href="mailto:marciohenriquedev@gmail.com">
+    <img alt="Gmail" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg">
+  </a>
 </div>
