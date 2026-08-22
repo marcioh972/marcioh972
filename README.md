@@ -9,7 +9,7 @@
 <br>
 
 ## 👨‍💻 Sobre mim
-Gosto de resolver problemas complexos, seja em desafios de algoritmos ou na arquitetura de sistemas multi-tenant, e estou sempre buscando aprender algo novo enquanto construo software com aplicabilidade prática no mercado.
+Gosto de entender e resolver problemas complexos sejam de programação ou matemática, a ideia central sempre é criar automações que façam sentido, compreendendo o contexto de cada situação.
 
 - 🎓 Estudante de **Engenharia de Software** na Uninter
 - 🛠️ Stack principal: **Java** e **React** 
