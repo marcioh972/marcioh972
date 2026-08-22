@@ -67,6 +67,7 @@ Ferramentas e DevOps
   <img alt="Github" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
   <img alt="Docker" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
   <img alt="Postman" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg">
+  <img alt="Linux" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg">
   <img alt="VSCode" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
   <img alt="Vercel" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vercel.svg">
   <img alt="Linux" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg">
