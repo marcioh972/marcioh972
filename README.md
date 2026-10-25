@@ -25,6 +25,7 @@ Back-end
 
 <div align="center">
   <img alt="Java" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+  <img alt="C++" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg">
   <img alt="Spring Boot" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring%20Boot.svg">
   <img alt="NestJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
   <img alt="Python" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
