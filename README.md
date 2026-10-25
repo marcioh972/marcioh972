@@ -25,13 +25,16 @@ Back-end
 
 <div align="center">
   <img alt="Java" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
-  <img alt="C++" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg">
   <img alt="Spring Boot" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring%20Boot.svg">
+  <img alt="C++" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg">
+  <img alt="Typescript" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
   <img alt="NestJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
+  <img alt="NodeJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
   <img alt="Python" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
   <img alt="FastAPI" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/FastAPI.svg">
   <img alt="Flask" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Flask.svg">
-  <img alt="NodeJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
+  <img alt="PHP" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
+  <img alt="Laravel" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Laravel.svg">
 </div>
 
 <div align="center">
