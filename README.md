@@ -27,9 +27,11 @@ Back-end
   <img alt="Java" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
   <img alt="Spring Boot" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Spring%20Boot.svg">
   <img alt="C++" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/C++.svg">
+  <img alt="Javascript" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
   <img alt="NestJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
   <img alt="NodeJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
   <img alt="Python" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+  <img alt="Django" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Django.svg">
   <img alt="FastAPI" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/FastAPI.svg">
   <img alt="Flask" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Flask.svg">
   <img alt="PHP" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
@@ -42,8 +44,8 @@ Front-end
 
 <div align="center">
   <img alt="React" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+  <img alt="Angular" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Angular.svg">
   <img alt="Typescript" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
-  <img alt="Javascript" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
   <img alt="NextJS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
   <img alt="HTML" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
   <img alt="CSS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
@@ -58,6 +60,8 @@ Banco de Dados
   <img alt="PostgreSQL" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PostgreSQL.svg">
   <img alt="MySQL" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
   <img alt="SQLite" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQLite.svg">
+  <img alt="MongoDB" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MongoDB.svg">
+  <img alt="DynamoDB" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/DynamoDB.svg">
   <img alt="Redis" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Redis.svg">
 </div>
 
@@ -70,10 +74,12 @@ Ferramentas e DevOps
   <img alt="Github" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
   <img alt="Docker" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
   <img alt="Postman" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg">
-  <img alt="Linux" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg">
-  <img alt="VSCode" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/VSCode.svg">
-  <img alt="Vercel" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Vercel.svg">
-  <img alt="Linux" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linux.svg">
+  <img alt="Kubernetes" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg">
+  <img alt="Docker" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+  <img alt="AWS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
+  <img alt="Azure" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg">
+  
+ 
 </div>
 
 <br>
