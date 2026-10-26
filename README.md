@@ -72,10 +72,9 @@ Ferramentas e DevOps
 <div align="center">
   <img alt="GIT" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
   <img alt="Github" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Github.svg">
-  <img alt="Docker" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
   <img alt="Postman" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postman.svg">
-  <img alt="Kubernetes" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg">
   <img alt="Docker" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Docker.svg">
+  <img alt="Kubernetes" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kubernetes.svg">
   <img alt="AWS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/AWS.svg">
   <img alt="Azure" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg">
   
